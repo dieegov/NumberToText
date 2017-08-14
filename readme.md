@@ -15,4 +15,4 @@ ___
 * Valores com casa decimal
 * Valores em moeda
 
-_Fique a vontade para fazer quaisquer alteração neste projeto, só não esqueça de deixar os créditos_ :)
+_Fique a vontade para fazer quaisquer alterações neste projeto, só não esqueça de deixar os créditos_ :)
